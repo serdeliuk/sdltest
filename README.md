@@ -1,5 +1,5 @@
 
-# SDL2 test suite [![download](https://img.shields.io/github/v/release/serdeliuk/sdltest?style=plastic)](https://github.com/serdeliuk/sdltest/releases/download/1/sdltest.ipk.zip)
+# SDL2 test suite [![download](https://img.shields.io/github/v/release/serdeliuk/sdltest?style=plastic)](https://github.com/serdeliuk/sdltest/releases/download/1/sdltest_1.0-r0_armv7ahf-neon.ipk)
 
 
 ## This source code is licensed under [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.html#preamble)
